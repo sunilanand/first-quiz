@@ -1,0 +1,121 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "correct_answer": "Hearts",
+        "incorrect_answers": [
+          "Spades",
+          "Diamonds",
+          "Clubs"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the most common surname Wales?",
+        "correct_answer": "Jones",
+        "incorrect_answers": [
+          "Williams",
+          "Davies",
+          "Evans"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "correct_answer": "Feiji",
+        "incorrect_answers": [
+          "Qiche",
+          "Zongxian",
+          "Huojian"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the last letter of the Greek alphabet?",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+          "Mu",
+          "Epsilon",
+          "Kappa"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How tall is the Burj Khalifa?",
+        "correct_answer": "2,722 ft",
+        "incorrect_answers": [
+          "2,717 ft",
+          "2,546 ft",
+          "3,024 ft"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+          "Toshiba",
+          "Asus",
+          "Dell"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "correct_answer": "You smell extremely unpleasant.",
+        "incorrect_answers": [
+          "You are out of shape\/weak.",
+          "Your appearance is repulsive.",
+          "You are incomprehensible\/an idiot."
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "correct_answer": "MAN",
+        "incorrect_answers": [
+          "EGLL",
+          "LHR",
+          "EGCC"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "medium",
+        "question": "The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      }
+    ]
+  }
